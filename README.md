@@ -1,0 +1,1 @@
+The google page project is a simple reconstruction of gooogle.com. It allows me to demenstrate basic front-end skills like positioning, alignmnet, and form creation.
